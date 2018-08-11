@@ -33,7 +33,7 @@ class Car():
 my_used_car=Car('subaru','outback',2013)
 print(my_used_car.get_descriptive_name())
 
-my_used_car.updata_odometer(23599)2
+my_used_car.updata_odometer(23599)
 my_used_car.read_odometer()
 
 my_used_car.increment_odometer(100)
